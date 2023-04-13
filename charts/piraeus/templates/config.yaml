@@ -25,7 +25,7 @@ data:
         tag: v0.22.1
         image: piraeus-csi
       drbd-reactor:
-        tag: v1.0.0
+        tag: v1.1.0
         image: drbd-reactor
       ha-controller:
         tag: v1.1.2

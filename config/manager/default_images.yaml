@@ -17,7 +17,7 @@ components:
     tag: v1.0.0
     image: piraeus-csi
   drbd-reactor:
-    tag: v1.0.0
+    tag: v1.1.0
     image: drbd-reactor
   ha-controller:
     image: piraeus-ha-controller
